@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: zarof-io.github.io
+Token: 1ebbb90697e270c8fdd7bb98448af8146a003981e40c725781c5068e06f20b3a
